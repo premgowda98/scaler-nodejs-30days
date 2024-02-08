@@ -1,3 +1,5 @@
+// Problem Statement: Create a function readFileContent(filePath) that takes the path to a file as input and reads its content asynchronously using the fs module. The function should print the content to the console.
+
 fs = require('fs')
 
 function readFileContent(filePath) {
